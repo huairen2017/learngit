@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 GIt tracks changes of files.
 git clone http://gitlab.yijifu.net/finlease/finlease-test
 
-Create a new branch.
+Create a new branch is quick & simple.
